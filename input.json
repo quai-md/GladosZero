@@ -1,0 +1,19 @@
+{
+    "paths": {
+        "global data": "C:\\work\\inputs\\global data",
+        "local data": "C:\\work\\inputs\\local data",
+        "output": "C:\\work\\inputs\\output data"
+    },
+    "metadata": {
+        "UID": "123456789",
+		"Random Seed": 42,
+        "trigger time": 1668084599.360004,
+        "GIT commit hash": "3326c006a3237dee49d8e269b55a0439ffb60cb6",
+        "GIT Repo name": "https://github.com/quai-md/GladosZero.git",
+        "GIT branch": "master"
+    },
+    "parameters": {
+        "parameter 1": 1,
+        "string to print": "And Remember! Respect is everything."
+    }
+}
